@@ -1,0 +1,8 @@
+prefix=/putn_ws/devel
+
+Name: gpr
+Description: Description of gpr
+Version: 0.0.0
+Cflags: -I/putn_ws/src/putn/src/putn/putn_gpr/include
+Libs: -L${prefix}/lib 
+Requires: 
